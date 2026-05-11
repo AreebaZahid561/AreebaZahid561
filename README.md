@@ -17,7 +17,7 @@
 
  I’m a passionate **Frontend Web Developer** who loves building modern, responsive, and interactive web applications.
 I enjoy turning ideas into real-world digital experiences with clean UI and efficient code.
- Currently focused on  AI-powered web apps**.
+ Currently focused on  AI-powered web apps.
 
 
 ##  Tech Stack

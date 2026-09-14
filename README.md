@@ -22,7 +22,7 @@
 
 I’m a **Software Engineer** with a background in Software Engineering and a strong interest in building **modern web applications, AI-powered systems, and practical software solutions**.
 
-I enjoy working across the software development lifecycle — from designing intuitive user interfaces and developing REST APIs to integrating databases, AI models, and deployment workflows.
+I enjoy working across the software development lifecycle , from designing intuitive user interfaces and developing REST APIs to integrating databases, AI models, and deployment workflows.
 
 My current interests include:
 
@@ -80,7 +80,7 @@ I’m particularly interested in building software that combines **clean enginee
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Final Year Project
 
 ### 🤖 AI-Powered Resume Builder
 
@@ -102,49 +102,8 @@ An **AI-powered ATS-compliant resume builder** designed to help users create opt
 
 ---
 
-### 🛍️ LuminaShop
 
-A modern e-commerce web application focused on responsive design, smooth interactions, and a clean shopping experience.
 
-**Tech Stack:**
-`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Lucide Icons`
-
-🔗 **Repository:**
-https://github.com/AreebaZahid561/lumina-shop-ecommerce
-
----
-
-### 🌱 AuraHabit
-
-A modern habit-tracking application designed around an interactive and visually engaging user experience.
-
-**Features include:**
-
-* Habit tracking
-* Progress visualization
-* Streak tracking
-* Analytics
-* Achievement badges
-* Dark / light mode
-* Local data persistence
-
-**Tech Stack:**
-`HTML` `CSS` `JavaScript` `SVG` `LocalStorage`
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaZahid561&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaZahid561&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaZahid561&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
